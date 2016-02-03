@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="14008000">
+<Library LVVersion="15008000">
 	<Property Name="Alarm Database Computer" Type="Str">localhost</Property>
 	<Property Name="Alarm Database Name" Type="Str">E__Program_Files_National_Instruments_LabVIEW_8_2_data</Property>
 	<Property Name="Alarm Database Path" Type="Str">E:\Program Files\National Instruments\LabVIEW 8.2\data</Property>
@@ -29,8 +29,8 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License along with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)W!!!*Q(C=\&gt;;\=&gt;N1%)8B)Y]$J_T!9OJQ7W!,&lt;'&amp;&lt;9+K1M27&gt;%ERX),3Q,&lt;!&amp;NA$`O&amp;B2FA-RM79](A&amp;=0MZ^@12!$+7R@:%_;\[V[=W.^G6@(`-SW\85.8?@_68@N43`(H.NH`^I@WP]\`P]00ZF`6P_D`;0^P_Y`@&lt;0__&amp;GJX@?J$PV,;!I5UH&amp;_AMO]C)P]C)P]C)XO=F.&lt;H+4GTT*ETT*ETT*ETT)ATT)ATT)IW^&lt;)B?ZS"8DVF)M8CR54&amp;J-5(3'IO+J]"3?QF.Y_+D#5XA+4_%J0(22Y3E]B;@Q&amp;"['K@!5HM*4?!I05QV*D:U=4_&amp;B?BG0]2C0]2A03]JY$-!M:C9WE]#1;42PD-&gt;YD)?X-B\D-2\D-2[;:4T'9TT'9TQ-'5@&amp;1\0MZ(C92IEH]33?R*.YG&amp;K**`%EHM34?&amp;B/C3@R*)BEQ72S#%I'*2W3$YEH]@#CR*.Y%E`C34QUD4/5Y]AMGG5HRR.Y!E`A#4S"BSE5?!*0Y!E]A9&gt;J&amp;8A#4_!*0)'(J22Y!E`A#3$"ICSP9,*A9.!J#!)0DX'VR$B,(J)9?`]UVQN6@1'K,STV";/_%.1H7(XCV#&gt;%@;$6"V"^9.2@70V&amp;V%$VQOI*V2VVY@F-4&gt;3*/F)(;E`NK#WV79&lt;_Z9[8SU8H]VH4./FU/OFY0/JQ/'C`XWOXWWG\X7KTW6TP6F`:V_XO_&lt;\UQ0M@XS9`08W`HZY?\Z@8U]^(,`F\VHJ@_B@OD@KU`JVZ/5;`!-S)2]9!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)W!!!*Q(C=\&gt;;\=&gt;N1%)8B)Y]$J_T!9OJQ7W!,&lt;'&amp;&lt;9+K1M27&gt;%ERX),3Q,&lt;!&amp;NA$`O&amp;B2FA-RM79](A&amp;=0MZ^@12!$+7R@:%_;\[V[=W.^G6@(`-SW\85.8?@_68@N43`(H.NH`^I@WP]\`P]00ZF`6P_D`;0^P_Y`@&lt;0__&amp;GJX@?J$PV,;!I5UH&amp;_AMO]C)P]C)P]C)XO=F.&lt;H+4GTT*ETT*ETT*ETT)ATT)ATT)IW^&lt;)B?ZS"8DVF)M8CR54&amp;J-5(3'IO+J]"3?QF.Y_+D#5XA+4_%J0(22Y3E]B;@Q&amp;"['K@!5HM*4?!I05QV*D:U=4_&amp;B?BG0]2C0]2A03]JY$-!M:C9WE]#1;42PD-&gt;YD)?X-B\D-2\D-2[;:4T'9TT'9TQ-'5@&amp;1\0MZ(C92IEH]33?R*.YG&amp;K**`%EHM34?&amp;B/C3@R*)BEQ72S#%I'*2W3$YEH]@#CR*.Y%E`C34QUD4/5Y]AMGG5HRR.Y!E`A#4S"BSE5?!*0Y!E]A9&gt;J&amp;8A#4_!*0)'(J22Y!E`A#3$"ICSP9,*A9.!J#!)0DX'VR$B,(J)9?`]UVQN6@1'K,STV";/_%.1H7(XCV#&gt;%@;$6"V"^9.2@70V&amp;V%$VQOI*V2VVY@F-4&gt;3*/F)(;E`NK#WV79&lt;_Z9[8SU8H]VH4./FU/OFY0/JQ/'C`XWOXWWG\X7KTW6TP6F`:V_XO_&lt;\UQ0M@XS9`08W`HZY?\Z@8U]^(,`F\VHJ@_B@OD@KU`JVZ/5;`!-S)2]9!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
 	<Property Name="NI.Lib.Version" Type="Str">0.2.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -49,7 +49,7 @@ You should have received a copy of the GNU General Public License along with thi
 	<Property Name="OdbcStringLoggingTableName" Type="Str">NI_VARIABLE_STRING</Property>
 	<Property Name="OdbcUsername" Type="Str"></Property>
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
-	<Property Name="Serialized ACL" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
+	<Property Name="Serialized ACL" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
@@ -58,6 +58,7 @@ You should have received a copy of the GNU General Public License along with thi
 			<Item Name="NanotecSMCPDDriver.abort motion.vi" Type="VI" URL="../Public/Action-Status/NanotecSMCPDDriver.abort motion.vi"/>
 			<Item Name="NanotecSMCPDDriver.get position.vi" Type="VI" URL="../Public/Action-Status/NanotecSMCPDDriver.get position.vi"/>
 			<Item Name="NanotecSMCPDDriver.get status.vi" Type="VI" URL="../Public/Action-Status/NanotecSMCPDDriver.get status.vi"/>
+			<Item Name="NanotecSMCPDDriver.get reference status.vi" Type="VI" URL="../Public/Action-Status/NanotecSMCPDDriver.get reference status.vi"/>
 			<Item Name="NanotecSMCPDDriver.move absolute.vi" Type="VI" URL="../Public/Action-Status/NanotecSMCPDDriver.move absolute.vi"/>
 			<Item Name="NanotecSMCPDDriver.move relative.vi" Type="VI" URL="../Public/Action-Status/NanotecSMCPDDriver.move relative.vi"/>
 			<Item Name="NanotecSMCPDDriver.find reference.vi" Type="VI" URL="../Public/Action-Status/NanotecSMCPDDriver.find reference.vi"/>
